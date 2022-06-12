@@ -60,7 +60,7 @@ ConfigTablayout = [[
     ]]
 AboutTablayout = [[
     [sg.Text('Елементарен графичен интерфейс за командната \n програма yt-dlp', pad=((10,10),(0,0)) )],
-    [sg.Text('Писана на Python3 и PySimpleGUI(tk) \n', pad=((10,10),(0,0)) )],
+    [sg.Text('Писана на Python3, PySimpleGUI(tk) и notify-py \n', pad=((10,10),(0,0)) )],
     [sg.Text('Автор: Илиян Пиргозлиев (Iliyan Pirgozliev) / 2022', pad=((10,10),(0,0)) )]
     ]]
 
