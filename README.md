@@ -12,11 +12,8 @@ In order to run it you must have Python3 installed (tested on 3.9) also the foll
 
 Run in command prompt/terminal with command "python ytdlp-gui.py"
 
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win10-1.PNG)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win10-2.PNG)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/Win7-1.PNG)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win7-2.PNG)
+![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win10-12.png)
+![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/Win7-12.png)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-1.PNG)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-2.PNG)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-1.PNG)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-2.PNG)
+![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-12.png)
+
