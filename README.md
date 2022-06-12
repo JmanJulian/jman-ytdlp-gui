@@ -4,7 +4,7 @@ Since Python and yt-dpl are available for Windows, Linux and Mac it should work 
 I have tested on Windows and Linux but dont have craple devices to test on.
 
 You can run the precompiled binary(Windows, Linux or Linux ARM32) that has all dependancy built in.
-In order to run the python file directly you must have Python3 installed (tested on 3.9) also the following lybrarys:
+Or in order to run the python file directly you must have Python3 installed (tested on 3.9) also the following lybrarys:
 1) PySimpleGUI -> can be installed with command "pip install pysiplegui" in command prompt(windows)/terminal(linux)
 2) notify-py -> can be installed with command "pip install notify-py" in command prompt(windows)/terminal(linux)
 3) python-tk or python3-tk (should come preinstalled with python but if not) "pip install python-tk" or "pip install python3-tk"
