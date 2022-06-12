@@ -7,7 +7,7 @@ In order to run it you must have Python3 installed (tested on 3.9) also the foll
 1) PySimpleGUI -> can be installed with command "pip install pysiplegui" in command prompt(windows)/terminal(linux)
 2) notify-py -> can be installed with command "pip install notify-py" in command prompt(windows)/terminal(linux)
 3) python-tk or python3-tk (should come preinstalled with python but if not) "pip install python-tk" or "pip install python3-tk"
-4) ffmpeg has to be installed in order to use the audio/video format options. You can get it from: https://www.ffmpeg.org/download.html
+4) ffmpeg has to be installed in order to use the audio/video format options. You can get it from: https://github.com/yt-dlp/FFmpeg-Builds
 5) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files
 
 Run in command prompt/terminal with command "python ytdlp-gui.py"
