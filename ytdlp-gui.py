@@ -58,10 +58,10 @@ AudioTablayout = [[
 ConfigTablayout = [[
     sg.Text('test')
     ]]
-AboutTablayout = [[
+AboutTablayout = [
     [sg.Text('Елементарен графичен интерфейс за командната програма yt-dlp. Писана на Python3, PySimpleGUI(tk) и notify-py ', pad=((10,0),(5,0)), size=(50, 4) )],
     [sg.Text('Автор(Author): Илиян Пиргозлиев (Iliyan Pirgozliev) / 2022', pad=((10,10),(0,0)) )]
-    ]]
+    ]
 
 
 MainWinlayout = [
