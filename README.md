@@ -11,6 +11,9 @@ In order to run it you must have Python3 installed (tested on 3.9) also the foll
 5) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files
 
 Run in command prompt/terminal with command "python ytdlp-gui.py"
+Or download the precompiled binary  
+  for Windows: https://github.com/JmanJulian/ytdlp-gui/files/8886175/ytdlp-gui.zip
+  for Linux: https://github.com/JmanJulian/ytdlp-gui/files/8886228/ytdlp-gui-linux64.zip
 
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win10-12.png)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/Win7-12.png)
