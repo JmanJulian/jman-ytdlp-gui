@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import PySimpleGUI as sg #pip install pysimplegui    #pip install python3-tk
+import PySimpleGUI as sg #pip install pysimplegui    #pip install python-tk or pip install python3-tk
 import platform
 import subprocess
 from notifypy import Notify #pip install notify-py
@@ -124,4 +124,3 @@ while True:
             if values['-WAV-']: aformat='wav'
             subprocess.run(['yt-dlp', values['-URL-'], '-x', convert_to+aformat, '--output=Downloads'+slash+'%(uploader)s%(title)s.%(ext)s']) #, capture_output=True
             notification(values['-URL-'])
-        #https://www.youtube.com/watch?v=reOLeLX0Q9U
