@@ -17,7 +17,8 @@ Or download the precompiled binary (made with pyinstaller)
 English:[ytdlp-gui-en.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888536/ytdlp-gui-en.zip)
   for Linux: Bulgarian:[ytdlp-gui-bg_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888718/ytdlp-gui-bg_lin64.zip)
 English:[ytdlp-gui-en-lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888723/ytdlp-gui-en-lin64.zip)
-  for Linux_ARM32: https://github.com/JmanJulian/ytdlp-gui/files/8886301/ytdlp-gui-linux-arm32.zip
+  for Linux_ARM32: Bulgarian:[ytdlp-gui-bg_ARM32.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888948/ytdlp-gui-bg_ARM32.zip)
+English:[ytdlp-gui-en_ARM32.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888949/ytdlp-gui-en_ARM32.zip)
 
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win10-12.png)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/Win7-12.png)
