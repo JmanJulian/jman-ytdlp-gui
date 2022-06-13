@@ -15,8 +15,8 @@ Run in command prompt/terminal with command "python ytdlp-gui.py"
 Or download the precompiled binary (made with pyinstaller)  
   for Windows: Bulgarian:[ytdlp-gui-bg.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893199/ytdlp-gui-bg.zip)
 English:[ytdlp-gui-en.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893203/ytdlp-gui-en.zip)
-  for Linux: Bulgarian:[ytdlp-gui-bg_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888718/ytdlp-gui-bg_lin64.zip)
-English:[ytdlp-gui-en-lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888723/ytdlp-gui-en-lin64.zip)
+  for Linux: Bulgarian:[ytdlp-gui-bg_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893304/ytdlp-gui-bg.zip)
+English:[ytdlp-gui-en_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893310/ytdlp-gui-en.zip)
   for Linux_ARM32: Bulgarian:[ytdlp-gui-bg_ARM32.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888948/ytdlp-gui-bg_ARM32.zip)
 English:[ytdlp-gui-en_ARM32.zip](https://github.com/JmanJulian/ytdlp-gui/files/8888949/ytdlp-gui-en_ARM32.zip)
 
