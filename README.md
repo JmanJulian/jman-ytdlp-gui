@@ -22,4 +22,3 @@ English:[ytdlp-gui-en_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win7-12en.png)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-1.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-12.png)
-
