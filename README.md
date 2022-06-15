@@ -13,8 +13,7 @@ Or in order to run the python file directly you must have Python3 installed (tes
 
 Run in command prompt/terminal with command "python ytdlp-gui.py"
 Or download the precompiled binary (made with pyinstaller)  
-  for Windows: Bulgarian:[ytdlp-gui-bg.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893199/ytdlp-gui-bg.zip)
-English:[ytdlp-gui-en.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893203/ytdlp-gui-en.zip)
+  for Windows: BG and EN: [ytdlp-gui_win.zip](https://github.com/JmanJulian/ytdlp-gui/files/8912791/ytdlp-gui_win.zip)
   for Linux: Bulgarian:[ytdlp-gui-bg_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893304/ytdlp-gui-bg.zip)
 English:[ytdlp-gui-en_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8893310/ytdlp-gui-en.zip)
   for Linux_ARM32: BG and EN: [ytdlp-gui-lin_arm32.zip](https://github.com/JmanJulian/ytdlp-gui/files/8909632/ytdlp-gui-lin_arm32.zip)
