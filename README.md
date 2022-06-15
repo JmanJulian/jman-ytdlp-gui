@@ -19,6 +19,6 @@ English:[ytdlp-gui-en_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/8
   for Linux_ARM32: BG and EN: [ytdlp-gui-lin_arm32.zip](https://github.com/JmanJulian/ytdlp-gui/files/8909632/ytdlp-gui-lin_arm32.zip)
 
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win10-12.png)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win7-12en.png)
+
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-1.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-12.png)
