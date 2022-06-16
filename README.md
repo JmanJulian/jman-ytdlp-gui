@@ -9,7 +9,7 @@ Or in order to run the python file directly you must have Python3 installed (tes
 2) notify-py -> can be installed with command "pip install notify-py" in command prompt(windows)/terminal(linux)
 3) python-tk or python3-tk (should come preinstalled with python but if not) "sudo apt install python-tk" or "sudo apt install python3-tk" (for debian based linux distros like Ubuntu, Popos, Mint and so on.)
 4) ffmpeg has to be installed in order to use the audio/video format options. You can get it from: https://github.com/yt-dlp/FFmpeg-Builds
-5) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files
+5) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files. Or press Download yt-dlp from the settings tab wich will get the needed binary based on youre OS (the url that it uses do download them are in the ini file).
 
 Run in command prompt/terminal with command "python ytdlp-gui.py"
 Or download the precompiled binary (made with pyinstaller)  
