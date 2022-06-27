@@ -60,9 +60,9 @@ locale = {
         'download'     : "Изтегли",
         'apply'        : "Приложи",
         'downytdlpbin' : "Изтегли yt-dlp",
-        'nourl'		   : "Трябва да зададете URL!",
-        'emb_sub'		: "само за видео формати mp4,webm,mkv",
-        #'emb_thmb'		: "само за аудио формати",
+        'nourl'        : "Трябва да зададете URL!",
+        'emb_sub'      : "само за видео формати mp4,webm,mkv",
+        #'emb_thmb'    : "само за аудио формати",
     },
     "en": {
         'complete'     : "Complete!",
@@ -80,9 +80,9 @@ locale = {
         'download'     : "Download",
         'apply'        : "Apply",
         'downytdlpbin' : "Download yt-dlp",
-        'nourl'		   : "You must enter a URL!",
-        'emb_sub'		: "only for video format mp4,webm,mkv",
-        #'emb_thmb'		: "only for audio formats",
+        'nourl'        : "You must enter a URL!",
+        'emb_sub'      : "only for video format mp4,webm,mkv",
+        #'emb_thmb'    : "only for audio formats",
     }
 }
 
