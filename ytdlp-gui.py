@@ -260,6 +260,7 @@ while True:
             print('Theme change to:' + sg.theme())
     if event == '-GET1-':
         downloadFile(ytdlp_url, 'yt-dlp')
+        os.chmod("./yt-dlp", 0o775)
         notification(ytdlp_url)
     if event == '-GOHOME-':
         ShellOpen(values['-HOMEPAGE-'])
