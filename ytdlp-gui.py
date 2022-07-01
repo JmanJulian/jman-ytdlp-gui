@@ -125,7 +125,7 @@ elif platform.system() == "Linux":
     if setTheme == 'SystemDefault1': ttk_theme='clam'
     FONTS='Ubuntu 9'
     slash='/'
-    shell_open='open'
+    shell_open='xdg-open'
     ytdlp_url = ytdlp_url_lin
 
 elif platform.system() == 'Darwin':
