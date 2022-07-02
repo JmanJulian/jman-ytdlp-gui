@@ -19,6 +19,6 @@ Or download the precompiled binary (made with pyinstaller)
   for MacOS: BG and EN: [ytdlp-gui-macOS12.4.zip](https://github.com/JmanJulian/ytdlp-gui/files/9033374/ytdlp-gui-macOS12.4.zip)
 
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/win7-4.png)
-![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/w10-4.PNG)
+![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/W10-4.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-1.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-12.png)
