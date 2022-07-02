@@ -142,7 +142,7 @@ elif platform.system() == "Linux":
 
 elif platform.system() == 'Darwin':
     if setTheme == 'SystemDefault1': ttk_theme='clam'
-    FONTS='Arial 9'
+    FONTS='arial 9'
     slash='/'
     shell_open='open'
     ytdlp_url = ytdlp_url_mac
