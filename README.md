@@ -11,7 +11,7 @@ Or in order to run the python file directly you must have Python3 installed (tes
 4) ffmpeg has to be installed in order to use the audio/video format options. You can get it from: https://github.com/yt-dlp/FFmpeg-Builds
 5) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files. Or press Download yt-dlp from the settings tab wich will get the needed binary based on youre OS (the url that it uses do download them are in the ini file(ini is created on first run)).
 
-Run in command prompt/terminal with command "python ytdlp-gui.py"
+Run in command prompt/terminal with command "python ytdlp-gui.pyw" or "python3 ytdlp-gui.pyw"
 Or download the precompiled binary (made with pyinstaller)  
   for Windows: BG and EN: [ytdlp-gui_win.zip](https://github.com/JmanJulian/ytdlp-gui/files/9003363/ytdlp-gui.zip)
   for Linux: BG and EN: [ytdlp-gui_lin64.zip](https://github.com/JmanJulian/ytdlp-gui/files/9003501/ytdlp-gui-lin64.zip)
