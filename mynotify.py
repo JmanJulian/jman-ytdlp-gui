@@ -24,7 +24,6 @@ def notify(title='', msg='', timeout=30, icon=''):
         location = (sg.Window.get_screen_size()[0]-370,sg.Window.get_screen_size()[1]-130),
         auto_close = True,
         auto_close_duration = timeout,
-        #auto_size_text = True,
         )
 
     while True:
@@ -35,4 +34,4 @@ def notify(title='', msg='', timeout=30, icon=''):
             exit
 
 if __name__ == "__main__":
-    notify('Test title!', 'test message djfgsjhdf sjdgf sdjfgs djf sdfg sdhfg hahahaah dfsdf sdf sfs dsf sd fs dsfd', 5)
+    notify('Test title!', 'test message', 5)
