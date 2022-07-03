@@ -119,7 +119,7 @@ def ShellOpen(path='Downloads'):
 	subprocess.run([ shell_open, path ])
 
 def run_cmd(cmd):
-    proc=subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    proc=subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,  creationflags = 0x08000000)
     for line in proc.stdout:
         sys.stdout.write(line.decode("utf-8") )
         print(line, flush=True)
