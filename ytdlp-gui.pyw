@@ -180,7 +180,7 @@ def rungui():
             [ sg.Tab(locale[setLocal]['abouttab'], AboutTablayout, key='-ABOUT-') ]
             ], key=('-TAB-'), expand_x=True)],
         [sg.Button(locale[setLocal]['open_dldir'], key='-ODL-', expand_x=True), sg.B('⥯',key='-UPDOWN-'), sg.Button(locale[setLocal]['download'], key='-DL-', expand_x=True)],
-        [sg.Multiline(size=(360,6),background_color=console_bg_color, text_color=console_text_color,reroute_stdout=True,reroute_cprint=True,reroute_stderr=True,autoscroll=True, auto_refresh=True, key='-CONSOLE-')]
+        [sg.Multiline(size=(360,6), background_color=console_bg_color, text_color=console_text_color, reroute_stdout=True, reroute_cprint=True, reroute_stderr=True, autoscroll=True, auto_refresh=True, key='-CONSOLE-', expand_y=True)]
         ]
 
     window = sg.Window("Ytdlp-GUI"+version,MainWinlayout, size=(380,280),
